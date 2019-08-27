@@ -1,0 +1,9 @@
+Data collection:
+- weather information (temperature, ...)
+- equipment information (bike weight, ...)
+- 
+
+Analysis:
+- find clusters of riders career
+- time evolution of peloton disparity (variability over riders)
+
